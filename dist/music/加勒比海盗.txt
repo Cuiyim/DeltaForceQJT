@@ -1,0 +1,152 @@
+X / 321ms
+X / 107ms
+X / 321ms
+等待 / 1ms
+X / 107ms
+X / 321ms
+X / 304ms
+等待 / 17ms
+左键 + N / 107ms
+Z / 107ms
+X / 321ms
+X / 304ms
+等待 / 17ms
+X / 107ms
+C / 107ms
+V / 321ms
+V / 304ms
+等待 / 17ms
+V / 107ms
+B / 107ms
+C / 321ms
+等待 / 1ms
+C / 304ms
+等待 / 17ms
+X / 107ms
+Z / 107ms
+Z / 107ms
+X / 519ms
+等待 / 17ms
+左键 + N / 107ms
+Z / 107ms
+X / 321ms
+等待 / 1ms
+X / 304ms
+等待 / 17ms
+X / 107ms
+C / 106ms
+等待 / 1ms
+V / 321ms
+V / 304ms
+等待 / 17ms
+V / 106ms
+等待 / 1ms
+B / 107ms
+C / 321ms
+C / 304ms
+等待 / 17ms
+X / 107ms
+Z / 107ms
+X / 626ms
+等待 / 17ms
+左键 + N / 107ms
+Z / 107ms
+X / 321ms
+X / 304ms
+等待 / 17ms
+X / 107ms
+C / 107ms
+B / 321ms
+等待 / 1ms
+B / 304ms
+等待 / 17ms
+B / 107ms
+N / 107ms
+中键 + N / 321ms
+等待 / 1ms
+中键 + N / 304ms
+等待 / 17ms
+N / 107ms
+B / 107ms
+N / 106ms
+等待 / 1ms
+X / 519ms
+等待 / 17ms
+X / 107ms
+C / 106ms
+等待 / 1ms
+V / 321ms
+V / 304ms
+等待 / 17ms
+B / 213ms
+等待 / 1ms
+N / 107ms
+X / 519ms
+等待 / 17ms
+X / 107ms
+V / 107ms
+C / 321ms
+C / 304ms
+等待 / 17ms
+V / 107ms
+X / 107ms
+C / 626ms
+等待 / 17ms
+N / 107ms
+, / 107ms
+右键 + X / 321ms
+等待 / 1ms
+右键 + X / 304ms
+等待 / 17ms
+右键 + X / 107ms
+右键 + C / 107ms
+右键 + V / 321ms
+等待 / 1ms
+右键 + V / 304ms
+等待 / 17ms
+右键 + V / 107ms
+右键 + B / 107ms
+右键 + C / 321ms
+等待 / 1ms
+右键 + C / 304ms
+等待 / 17ms
+右键 + X / 107ms
+, / 106ms
+等待 / 1ms
+, / 107ms
+右键 + X / 519ms
+等待 / 17ms
+N / 106ms
+等待 / 1ms
+, / 107ms
+右键 + X / 321ms
+右键 + X / 304ms
+等待 / 17ms
+右键 + X / 107ms
+右键 + C / 107ms
+右键 + V / 321ms
+右键 + V / 304ms
+等待 / 17ms
+右键 + V / 107ms
+右键 + B / 107ms
+右键 + C / 321ms
+右键 + C / 304ms
+等待 / 17ms
+右键 + X / 107ms
+, / 107ms
+右键 + X / 626ms
+等待 / 17ms
+N / 107ms
+, / 107ms
+右键 + X / 321ms
+等待 / 1ms
+右键 + X / 304ms
+等待 / 17ms
+右键 + X / 107ms
+右键 + V / 107ms
+右键 + B / 321ms
+等待 / 1ms
+右键 + B / 304ms
+等待 / 17ms
+右键 + B / 107ms
+右键 + N / 106ms

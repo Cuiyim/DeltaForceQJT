@@ -1,0 +1,91 @@
+C / 583ms
+C / 291ms
+C / 291ms
+V / 583ms
+B / 583ms
+C / 874ms
+X / 291ms
+X / 1165ms
+Z / 583ms
+Z / 291ms
+Z / 291ms
+X / 583ms
+C / 583ms
+C / 874ms
+左键 + M / 291ms
+左键 + M / 1165ms
+左键 + N / 583ms
+C / 583ms
+X / 1165ms
+左键 + N / 583ms
+C / 583ms
+X / 1165ms
+左键 + N / 583ms
+C / 583ms
+X / 874ms
+Z / 291ms
+Z / 1165ms
+等待 / 291ms
+C / 583ms
+C / 291ms
+C / 291ms
+V / 583ms
+B / 583ms
+C / 874ms
+X / 291ms
+X / 1165ms
+Z / 583ms
+Z / 291ms
+Z / 291ms
+X / 583ms
+C / 583ms
+C / 874ms
+左键 + M / 291ms
+左键 + M / 1165ms
+左键 + N / 583ms
+C / 583ms
+X / 1165ms
+左键 + N / 583ms
+C / 583ms
+X / 1165ms
+左键 + N / 583ms
+C / 583ms
+X / 874ms
+Z / 291ms
+Z / 1165ms
+等待 / 291ms
+C / 291ms
+X / 291ms
+B / 1748ms
+V / 291ms
+C / 583ms
+X / 1456ms
+B / 291ms
+V / 291ms
+C / 583ms
+V / 291ms
+B / 874ms
+C / 583ms
+X / 1748ms
+等待 / 291ms
+Z / 291ms
+左键 + N / 583ms
+C / 583ms
+X / 874ms
+Z / 291ms
+左键 + B / 583ms
+X / 291ms
+Z / 291ms
+Z / 1165ms
+V / 291ms
+C / 291ms
+V / 291ms
+C / 291ms
+Z / 1165ms
+V / 291ms
+C / 291ms
+V / 291ms
+C / 291ms
+Z / 874ms
+X / 291ms
+Z / 1165ms

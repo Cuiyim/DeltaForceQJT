@@ -1,0 +1,199 @@
+{
+  "wechat_path": "",
+  "wechatocr_path": "",
+  "save_dir": "temp",
+  "temp_dir": "temp",
+  "hotkeys": {
+    "morse": "ctrl+alt+q",
+    "fingerprint": "ctrl+alt+w",
+    "exit": "end"
+  },
+  "fingerprint_images_dir": "images",
+  "fingerprint_auto_click": true,
+  "fingerprint": {
+    "name_region": {
+      "x1": 706,
+      "y1": 657,
+      "x2": 866,
+      "y2": 689
+    },
+    "number_region": {
+      "x1": 1030,
+      "y1": 530,
+      "x2": 1365,
+      "y2": 930
+    },
+    "candidate_boxes": [
+      [
+        1522,
+        560,
+        1627,
+        665
+      ],
+      [
+        1650,
+        560,
+        1755,
+        665
+      ],
+      [
+        1778,
+        560,
+        1883,
+        665
+      ],
+      [
+        1522,
+        687,
+        1627,
+        792
+      ],
+      [
+        1650,
+        687,
+        1755,
+        792
+      ],
+      [
+        1778,
+        687,
+        1883,
+        792
+      ],
+      [
+        1522,
+        815,
+        1627,
+        920
+      ],
+      [
+        1650,
+        815,
+        1755,
+        920
+      ],
+      [
+        1778,
+        815,
+        1883,
+        920
+      ]
+    ],
+    "mode_config": {
+      "8": {
+        "mode": "C",
+        "candidates": 9,
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "6": {
+        "mode": "B",
+        "candidates": 7,
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "4": {
+        "mode": "A",
+        "candidates": 5,
+        "indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    },
+    "match_threshold": 0.5
+  },
+  "morse_confirm_clicks": [],
+  "_comment_morse": "morse_region 需覆盖「已获取的密码」整行符号（坐标基于 1920x1080）。识别失败时程序会自动扩大窗口并重新定位符号行；若仍失败，用 python main.py --preview 校准。",
+  "morse_region": {
+    "left": 480,
+    "top": 388,
+    "width": 600,
+    "height": 30
+  },
+  "morse_input_mode": "keyboard",
+  "morse_dry_run": false,
+  "morse_keypad": {
+    "0": {
+      "x": 1276,
+      "y": 727
+    },
+    "1": {
+      "x": 1194,
+      "y": 654
+    },
+    "2": {
+      "x": 1276,
+      "y": 654
+    },
+    "3": {
+      "x": 1358,
+      "y": 654
+    },
+    "4": {
+      "x": 1193,
+      "y": 582
+    },
+    "5": {
+      "x": 1276,
+      "y": 582
+    },
+    "6": {
+      "x": 1358,
+      "y": 582
+    },
+    "7": {
+      "x": 1193,
+      "y": 509
+    },
+    "8": {
+      "x": 1276,
+      "y": 509
+    },
+    "9": {
+      "x": 1358,
+      "y": 509
+    }
+  },
+  "_comment_resolution": "坐标基准分辨率是 1920x1080（morse_* 系列是在 1080p 截图上实测的）。程序启动时按当前主显示器分辨率自动等比缩放。注意：fingerprint 一节是上游作者在 2560x1440 下校准的（其模板图为 105x105，与配置里候选格尺寸一致），属于真实像素，因此单独用 coord_space_overrides 关闭缩放。若你自行校准了任何一节，把该节设为 actual。",
+  "resolution_scaling": {
+    "enabled": true,
+    "reference": {
+      "width": 1920,
+      "height": 1080
+    },
+    "coord_space": "reference",
+    "coord_space_overrides": {
+      "fingerprint": "actual"
+    }
+  },
+  "_comment_input": "morse_input_mode: mouse=鼠标点击游戏内小键盘（坐标要准、会移动指针）｜keyboard=发送键盘数字键（不动鼠标）。键盘模式若游戏没反应，先试把 morse_keyboard_layout 换成 numpad（主行数字与小键盘数字是两套扫描码，游戏可能只认其中一套）。",
+  "morse_keyboard_layout": "main",
+  "morse_keyboard_hold_ms": 30,
+  "morse_type_delay_ms": 150,
+  "morse_game_process_keywords": [
+    "deltaforceclient",
+    "deltaforce",
+    "delta force",
+    "delta"
+  ]
+}

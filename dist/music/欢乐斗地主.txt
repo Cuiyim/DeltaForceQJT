@@ -1,0 +1,100 @@
+B / 250ms
+B / 125ms
+N / 125ms
+B / 250ms
+C / 250ms
+B / 1000ms
+Z / 250ms
+Z / 125ms
+X / 125ms
+Z / 250ms
+左键 + N / 250ms
+左键 + B / 1250ms
+左键 + N / 250ms
+左键 + N / 125ms
+左键 + B / 125ms
+左键 + N / 250ms
+Z / 250ms
+X / 250ms
+Z / 250ms
+X / 250ms
+C / 250ms
+B / 375ms
+N / 125ms
+B / 250ms
+C / 250ms
+X / 1000ms
+B / 250ms
+B / 125ms
+N / 125ms
+B / 250ms
+C / 250ms
+B / 1000ms
+X / 250ms
+X / 125ms
+C / 125ms
+X / 250ms
+Z / 250ms
+N / 1250ms
+左键 + B / 250ms
+左键 + N / 250ms
+Z / 250ms
+X / 250ms
+C / 250ms
+N / 250ms
+C / 250ms
+B / 250ms
+X / 375ms
+C / 125ms
+X / 250ms
+左键 + N / 250ms
+Z / 1000ms
+N / 250ms
+N / 125ms
+B / 125ms
+C / 250ms
+B / 250ms
+N / 750ms
+C / 250ms
+B / 250ms
+B / 125ms
+N / 125ms
+B / 250ms
+C / 250ms
+B / 1000ms
+X / 250ms
+X / 125ms
+C / 125ms
+X / 250ms
+Z / 250ms
+X / 250ms
+Z / 250ms
+左键 + N / 250ms
+左键 + B / 250ms
+X / 750ms
+Z / 250ms
+C / 1000ms
+N / 250ms
+N / 125ms
+B / 125ms
+C / 250ms
+B / 250ms
+N / 750ms
+C / 250ms
+B / 250ms
+B / 125ms
+N / 125ms
+B / 250ms
+C / 250ms
+B / 1000ms
+X / 250ms
+X / 125ms
+C / 125ms
+X / 250ms
+Z / 250ms
+X / 250ms
+Z / 250ms
+左键 + N / 250ms
+左键 + B / 250ms
+Z / 1500ms
+等待 / 500ms
