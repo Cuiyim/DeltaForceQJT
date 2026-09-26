@@ -4,8 +4,8 @@
   "save_dir": "temp",
   "temp_dir": "temp",
   "hotkeys": {
-    "morse": "ctrl+alt+q",
-    "fingerprint": "ctrl+alt+w",
+    "morse": "F5",
+    "fingerprint": "F6",
     "exit": "end"
   },
   "fingerprint_images_dir": "images",
